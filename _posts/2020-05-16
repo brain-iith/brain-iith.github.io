@@ -1,0 +1,12 @@
+## Neural Ordinal Differential Equation - Sample Post
+
+We will discuss NODE in this blog. 
+Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural 
+network. The output of the network is computed using a black-box differential equation solver. These continuous-depth models 
+have constant memory cost, adapt their evaluation strategy to each input, and can explicitly trade numerical precision for 
+speed. We demonstrate these properties in continuous-depth residual networks and continuous-time latent variable models. 
+
+You can add equations as follows - 
+$$
+\sum_n (x)
+$$
