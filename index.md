@@ -1,4 +1,4 @@
-<img src="images/logo_brain.png" width="20" height = "10">
+<img src="images/logo_brain.png" width="100" height = "50">
 
 ## BRAIN-IITH
 
