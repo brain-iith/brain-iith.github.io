@@ -1,4 +1,4 @@
-![](images/logo_brain.png)
+<img src="images/logo_brain.png" width="20" height = "10">
 
 ## BRAIN-IITH
 
